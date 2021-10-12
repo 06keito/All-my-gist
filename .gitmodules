@@ -10,3 +10,6 @@
 [submodule "python/diceroll"]
 	path = python/diceroll
 	url = https://gist.github.com/06keito/aa3882447f85bd5248c5585b7aab3ae0
+[submodule "powershell/pip_update"]
+	path = powershell/pip_update
+	url = https://gist.github.com/06keito/fbbcfd614b5cb4eff5bf21bd07a8c9e7
