@@ -26,6 +26,14 @@ git submodule add [Gist_URL] [Any directory name]
 git submodule add https://gist.github.com/06keito/6af6fb73a45baaabe7f8772b7f8d5e66 ubuntu
 ```
 
+- __delete__
+
+```shell
+git submodule deinit -f [submodule name]
+git rm -f [submodule name]
+rm -rf .git/modules/[submodule name]
+```
+
 - __clone__
 
 ```shell
