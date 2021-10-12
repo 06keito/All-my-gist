@@ -14,19 +14,19 @@ A repository to aggregate the Gists you have created.
 
 ## __Usage__
 
-sample
+- __sample__
 
 ```shell
 git submodule add [Gist_URL] [Any directory name]
 ```
 
-example
+- __example__
 
 ```shell
 git submodule add https://gist.github.com/06keito/6af6fb73a45baaabe7f8772b7f8d5e66 ubuntu
 ```
 
-clone
+- __clone__
 
 ```shell
 git clone --recurse-submodules https://github.com/06keito/All-my-gist.git
