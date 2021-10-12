@@ -1,0 +1,9 @@
+[submodule "ubuntu/update_command"]
+	path = ubuntu/update_command
+	url = https://gist.github.com/06keito/6af6fb73a45baaabe7f8772b7f8d5e66
+[submodule "python/argparse_template.py"]
+	path = python/argparse_template.py
+	url = https://gist.github.com/06keito/1accfb439641ed6d10154bcd8ba2e452
+[submodule "python/dublication_check"]
+	path = python/dublication_check
+	url = https://gist.github.com/06keito/9abd51246fffb4079e0f384fe7b10ac6
