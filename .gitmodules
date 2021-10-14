@@ -13,3 +13,6 @@
 [submodule "powershell/pip_update"]
 	path = powershell/pip_update
 	url = https://gist.github.com/06keito/fbbcfd614b5cb4eff5bf21bd07a8c9e7
+[submodule "python/gaming_picture"]
+	path = python/gaming_picture
+	url = https://gist.github.com/06keito/43d83af1bdac61d1c4cfac3292ca8978
