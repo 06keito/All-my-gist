@@ -16,3 +16,6 @@
 [submodule "python/gaming_picture"]
 	path = python/gaming_picture
 	url = https://gist.github.com/06keito/43d83af1bdac61d1c4cfac3292ca8978
+[submodule "python/measurement_execution_time"]
+	path = python/measurement_execution_time
+	url = https://gist.github.com/06keito/f73b8938ce96ae1b52c5968796531b4b
